@@ -42,27 +42,27 @@
 
 ---
 
-# 📸 Demo
+# 📸 Application Preview
 
-<img width="1919" height="826" alt="image" src="https://github.com/user-attachments/assets/376f7e57-19cc-484e-952e-d2239a458974" /> <img width="1916" height="819" alt="image" src="https://github.com/user-attachments/assets/d765f754-ea06-468a-8839-891d2f23f1c7" />
+<div align="center">
 
+| 🏠 Home | 🖼️ Image Analyzer |
+|:-------:|:----------------:|
+| <img src="https://github.com/user-attachments/assets/376f7e57-19cc-484e-952e-d2239a458974" width="100%"> | <img src="https://github.com/user-attachments/assets/d765f754-ea06-468a-8839-891d2f23f1c7" width="100%"> |
 
+</div>
 
-```
-assets/
-│
-├── chatbot.png
-├── image-analysis.png
-├── home.png
-```
+---
 
-Example
+# 📷 Chatbot & Vision
 
-| Chatbot | Image Analyzer |
-|----------|----------------|
-|<img width="1919" height="826" alt="image" src="https://github.com/user-attachments/assets/1288117f-0b13-40ed-8f96-2f6b06940bcf" />
- | <img width="1916" height="819" alt="image" src="https://github.com/user-attachments/assets/7d7d1b5b-5fb5-4463-b544-d4aab67ffec7" />
- |
+<div align="center">
+
+| 🤖 AI Chatbot | 🖼️ AI Image Analyzer |
+|:-------------:|:--------------------:|
+| <img src="https://github.com/user-attachments/assets/24e7bbc5-4a34-4ef8-9656-aefd9b8e3c14" width="100%"> | <img src="https://github.com/user-attachments/assets/1c34d735-d419-4639-bca9-848232906ae0" width="100%"> |
+
+</div>
 
 ---
 
