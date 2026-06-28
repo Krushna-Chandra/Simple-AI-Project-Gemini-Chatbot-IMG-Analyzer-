@@ -1,27 +1,22 @@
-````markdown
 <div align="center">
 
-# 🤖 Gemini Chatbot & AI Image Analyzer
+# 🤖 Simple AI Project
+### Gemini Chatbot + AI Image Analyzer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+Google+Gemini+Powered+AI+Assistant;💬+Intelligent+Chatbot;🖼️+Advanced+Image+Analysis;🐍+Built+with+Python+%7C+Streamlit;⚡+Fast+%7C+Secure+%7C+Interactive" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Powered+by+Google+Gemini;AI+Chatbot+%2B+Image+Analyzer;Built+with+Python+%7C+Streamlit;Fast+%7C+Modern+%7C+Interactive" />
 
-<br>
+<p align="center">
 
-![Stars](https://img.shields.io/github/stars/Krushna-Chandra/Simple-AI-Project-Gemini-Chatbot-IMG-Analyzer-?style=for-the-badge&logo=github)
-![Forks](https://img.shields.io/github/forks/Krushna-Chandra/Simple-AI-Project-Gemini-Chatbot-IMG-Analyzer-?style=for-the-badge&logo=github)
-![Issues](https://img.shields.io/github/issues/Krushna-Chandra/Simple-AI-Project-Gemini-Chatbot-IMG-Analyzer-?style=for-the-badge)
-![License](https://img.shields.io/github/license/Krushna-Chandra/Simple-AI-Project-Gemini-Chatbot-IMG-Analyzer-?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.12+-blue?style=for-the-badge&logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge&logo=streamlit)
+![Google Gemini](https://img.shields.io/badge/Google-Gemini-4285F4?style=for-the-badge&logo=google)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-<br>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![AI](https://img.shields.io/badge/Generative-AI-success?style=for-the-badge)
+</p>
 
 ---
 
-### 🚀 A modern AI application that combines conversational intelligence with image understanding using Google's Gemini AI.
+### 🚀 An AI Assistant capable of intelligent conversations and advanced image understanding using Google's Gemini AI.
 
 </div>
 
@@ -29,88 +24,99 @@
 
 # ✨ Features
 
-- 🤖 AI-powered conversational chatbot
-- 🖼️ Intelligent image understanding
-- 💬 Ask questions about uploaded images
-- ⚡ Fast AI responses
-- 🎨 Beautiful Streamlit interface
-- 🔐 Secure API key management
-- 📱 Responsive design
-- 🧹 Clean project architecture
+✅ AI Chatbot powered by Google Gemini
+
+✅ Upload and Analyze Images
+
+✅ Ask Questions About Images
+
+✅ Fast Response Generation
+
+✅ Clean Modern Streamlit Interface
+
+✅ Responsive Layout
+
+✅ Secure API Key using `.env`
+
+✅ Beginner Friendly Code Structure
 
 ---
 
-# 📸 Application Preview
+# 📸 Demo
 
-## 💬 Chatbot
+<img width="1919" height="826" alt="image" src="https://github.com/user-attachments/assets/376f7e57-19cc-484e-952e-d2239a458974" /> <img width="1916" height="819" alt="image" src="https://github.com/user-attachments/assets/d765f754-ea06-468a-8839-891d2f23f1c7" />
 
-<p align="center">
-<img src="YOUR_CHATBOT_SCREENSHOT_LINK" width="95%">
-</p>
 
----
 
-## 🖼️ Image Analyzer
+```
+assets/
+│
+├── chatbot.png
+├── image-analysis.png
+├── home.png
+```
 
-<p align="center">
-<img src="YOUR_IMAGE_ANALYZER_SCREENSHOT_LINK" width="95%">
-</p>
+Example
 
----
-
-## 📷 More Screenshots
-
-| Home | Image Analysis |
-|------|----------------|
-| <img src="YOUR_HOME_SCREENSHOT" width="100%"> | <img src="YOUR_ANALYZER_SCREENSHOT" width="100%"> |
+| Chatbot | Image Analyzer |
+|----------|----------------|
+|<img width="1919" height="826" alt="image" src="https://github.com/user-attachments/assets/1288117f-0b13-40ed-8f96-2f6b06940bcf" />
+ | <img width="1916" height="819" alt="image" src="https://github.com/user-attachments/assets/7d7d1b5b-5fb5-4463-b544-d4aab67ffec7" />
+ |
 
 ---
 
-# ⚡ Tech Stack
+# 🛠 Tech Stack
 
-| Category | Technology |
-|-----------|------------|
-| Language | Python |
-| Frontend | Streamlit |
-| AI Model | Google Gemini |
-| Image Processing | Pillow |
-| Environment | python-dotenv |
+| Technology | Usage |
+|------------|-------|
+| 🐍 Python | Backend |
+| 🎨 Streamlit | User Interface |
+| 🤖 Google Gemini | AI Model |
+| 🖼 Pillow | Image Processing |
+| 🔐 dotenv | Environment Variables |
 
 ---
 
 # 📂 Project Structure
 
-```text
-📦 Simple-AI-Project-Gemini-Chatbot-IMG-Analyzer-
+```
+Simple-AI-Project/
 │
-├── 📄 app.py
-├── 📄 README.md
-├── 📄 .gitignore
-├── 📄 .env
-└── 📁 assets/
+├── app.py
+├── requirements.txt
+├── .env
+├── README.md
+├── assets/
+│     ├── chatbot.png
+│     ├── image-analysis.png
+│
+└── utils/
 ```
 
 ---
 
-# 🚀 Installation
+# ⚙ Installation
 
-### Clone Repository
+## Clone Repository
 
 ```bash
 git clone https://github.com/Krushna-Chandra/Simple-AI-Project-Gemini-Chatbot-IMG-Analyzer-.git
 ```
 
+Move into project
+
 ```bash
 cd Simple-AI-Project-Gemini-Chatbot-IMG-Analyzer-
 ```
 
----
-
-### Create Virtual Environment
+Create Virtual Environment
 
 ```bash
 python -m venv .venv
 ```
+
+Activate Environment
 
 Windows
 
@@ -118,15 +124,13 @@ Windows
 .venv\Scripts\activate
 ```
 
-Linux / macOS
+Linux / Mac
 
 ```bash
 source .venv/bin/activate
 ```
 
----
-
-### Install Requirements
+Install Dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -134,7 +138,9 @@ pip install -r requirements.txt
 
 ---
 
-### Create .env
+# 🔑 Environment Variables
+
+Create a `.env`
 
 ```env
 GOOGLE_API_KEY=YOUR_GEMINI_API_KEY
@@ -142,13 +148,13 @@ GOOGLE_API_KEY=YOUR_GEMINI_API_KEY
 
 ---
 
-### Run
+# ▶ Run Application
 
 ```bash
 streamlit run app.py
 ```
 
-Visit
+Open
 
 ```
 http://localhost:8501
@@ -156,89 +162,102 @@ http://localhost:8501
 
 ---
 
-# 🔄 Workflow
+# 💡 How It Works
 
-```text
-        User
-          │
-          ▼
-  Streamlit Interface
-          │
-          ▼
- Google Gemini API
-          │
-          ▼
-  AI Processing Engine
-          │
-          ▼
+```
+User Input
+      │
+      ▼
+ Streamlit UI
+      │
+      ▼
+ Gemini API
+      │
+      ▼
+ AI Processing
+      │
+      ▼
  Intelligent Response
 ```
+
+For Image Analysis
+
+```
+Upload Image
+      │
+      ▼
+ Gemini Vision
+      │
+      ▼
+ Understand Image
+      │
+      ▼
+ Generate Explanation
+```
+
+---
+
+# 🚀 Future Improvements
+
+- 🎙 Voice Chat
+- 🌐 Multi-language Support
+- 📄 PDF Analysis
+- 🎥 Video Understanding
+- 📚 Chat History
+- 🔍 OCR Support
+- 🌙 Dark Mode
+- ☁ Deployment
+
 ---
 
 # 🤝 Contributing
 
+Contributions are welcome.
+
 ```bash
-Fork Repository
+Fork 🍴
 
-↓
+Clone 📥
 
-Clone Repository
+Create Branch 🌿
 
-↓
+Commit 💻
 
-Create Feature Branch
+Push 🚀
 
-↓
-
-Commit Changes
-
-↓
-
-Push Branch
-
-↓
-
-Open Pull Request
+Open Pull Request 🎉
 ```
 
 ---
 
-# ⭐ Show Your Support
+# ⭐ Support
 
 If you found this project useful,
 
-⭐ Star the repository
+⭐ Star this repository
 
 🍴 Fork it
 
-🛠️ Contribute
-
-📢 Share it
+💬 Share it
 
 ---
 
-# 👨‍💻 Developer
+# 👨‍💻 Author
 
 ## Krushna Chandra Bindhani
 
-AI • Machine Learning • Data Science • Python
+AI • Machine Learning • Data Science • Python Developer
 
-### 🌐 Connect With Me
+GitHub
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Krushna-Chandra)
-
-<!-- Replace with your LinkedIn -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+https://github.com/Krushna-Chandra
 
 ---
 
 <div align="center">
 
-## ⭐ Thanks for Visiting!
+## ⭐ If you like this project, don't forget to Star the Repository ⭐
 
 Made with ❤️ using Python, Streamlit & Google Gemini
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=120&section=footer"/>
-
 </div>
-````
