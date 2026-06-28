@@ -84,14 +84,12 @@
 Simple-AI-Project/
 │
 ├── app.py
-├── requirements.txt
+├── .gitignore
 ├── .env
 ├── README.md
-├── assets/
-│     ├── chatbot.png
-│     ├── image-analysis.png
-│
-└── utils/
+└── assets/
+      ├── chatbot.png
+      ├── image-analysis.png
 ```
 
 ---
