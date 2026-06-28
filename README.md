@@ -44,7 +44,9 @@
 
 # 📸 Demo
 
-> Add your screenshots here
+<img width="1919" height="826" alt="image" src="https://github.com/user-attachments/assets/376f7e57-19cc-484e-952e-d2239a458974" /> <img width="1916" height="819" alt="image" src="https://github.com/user-attachments/assets/d765f754-ea06-468a-8839-891d2f23f1c7" />
+
+
 
 ```
 assets/
@@ -58,7 +60,9 @@ Example
 
 | Chatbot | Image Analyzer |
 |----------|----------------|
-| ![](assets/chatbot.png) | ![](assets/image-analysis.png) |
+|<img width="1919" height="826" alt="image" src="https://github.com/user-attachments/assets/1288117f-0b13-40ed-8f96-2f6b06940bcf" />
+ | <img width="1916" height="819" alt="image" src="https://github.com/user-attachments/assets/7d7d1b5b-5fb5-4463-b544-d4aab67ffec7" />
+ |
 
 ---
 
